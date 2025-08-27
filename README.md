@@ -1,1 +1,0 @@
-# SafeSignal Advisor Website\nDeployed with Next.js on Vercel
