@@ -1,0 +1,1 @@
+# SafeSignal Advisor Website\nNext.js project ready for Vercel deployment.
