@@ -1,0 +1,1 @@
+# SafeSignal Advisor Website with TailwindCSS\nReady for Vercel deployment.
